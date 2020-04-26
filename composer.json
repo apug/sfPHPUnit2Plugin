@@ -1,0 +1,9 @@
+{
+  "name": "apug/sf-phpunit-plugin",
+  "description": "PhPUnit Plugin",
+  "type": "symfony1-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "authors": ["apug","colinux"]
+}
